@@ -1,0 +1,12 @@
+streamlit
+pymoo
+networkx
+pandas
+plotly
+scikit-learn
+requests
+javalang
+matplotlib
+scipy
+gitpython
+numba
