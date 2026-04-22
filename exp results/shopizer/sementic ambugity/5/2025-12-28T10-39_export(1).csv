@@ -1,0 +1,18 @@
+﻿,shopizer,,,,
+,semantic ambuigity,,,,
+,,,,,
+,Metric,Algo,P-Value,A12,Winner
+0,MoJoFM,NSGA-II,0.6171,0.25,Baseline
+1,MoJoFM,MOEA/D,0.3333,1,Semanti-MOP
+2,MoJoFM,NSGA-III,0.6171,0.75,Semanti-MOP
+3,MoJoFM,AGE-MOEA-II,0.2207,0,Baseline
+4,MoJoFM,R-NSGA-II,0.2207,0,Baseline
+5,MoJoFM,U-NSGA-III,1,0.62,Semanti-MOP
+6,MoJoFM,Random Search,1,0.5,Baseline
+7,Hypervolume,NSGA-II,1,0.5,Baseline
+8,Hypervolume,MOEA/D,0.6667,0.25,Baseline
+9,Hypervolume,NSGA-III,0.6667,0.75,Semanti-MOP
+10,Hypervolume,AGE-MOEA-II,0.6667,0.75,Semanti-MOP
+11,Hypervolume,R-NSGA-II,0.3333,0,Baseline
+12,Hypervolume,U-NSGA-III,0.3333,0,Baseline
+13,Hypervolume,Random Search,1,0.5,Baseline

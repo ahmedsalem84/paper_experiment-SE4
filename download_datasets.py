@@ -1,3 +1,5 @@
+# --- START OF FILE download_datasets.py ---
+
 import os
 import sys
 
@@ -11,7 +13,8 @@ except ImportError:
 DATASETS = {
     "Spring-PetClinic": "https://github.com/spring-projects/spring-petclinic.git",
     "Cargo": "https://github.com/citerus/dddsample-core.git",
-    "Shopizer": "https://github.com/shopizer-ecommerce/shopizer.git"
+    "Shopizer": "https://github.com/shopizer-ecommerce/shopizer.git",
+    "Apache-Flink": "https://github.com/apache/flink.git" # ADDED APACHE FLINK
 }
 
 def setup_data():
@@ -32,7 +35,9 @@ def setup_data():
             
         print(f"📥 Cloning {name} from GitHub...")
         try:
-            Repo.clone_from(url, target_path, depth=1)
+            # For very large repos like Flink, depth=1 might not get all historical data
+            # but is fine for cloning the latest state.
+            Repo.clone_from(url, target_path, depth=1) 
             print(f"✅ {name} cloned successfully.")
         except Exception as e:
             print(f"❌ Failed to clone {name}. Error: {e}")

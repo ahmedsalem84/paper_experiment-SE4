@@ -1,0 +1,18 @@
+﻿,petclinic,,,,
+,semantic ambuigity,,,,
+,,,,,
+,Metric,Algo,P-Value,A12,Winner
+0,MoJoFM,NSGA-II,0.3005,0.64,Semanti-MOP
+1,MoJoFM,MOEA/D,0.3742,0.62,Semanti-MOP
+2,MoJoFM,NSGA-III,0.0074,0.86,Semanti-MOP
+3,MoJoFM,AGE-MOEA-II,0.2425,0.66,Semanti-MOP
+4,MoJoFM,R-NSGA-II,0.1537,0.69,Semanti-MOP
+5,MoJoFM,U-NSGA-III,0.2644,0.65,Semanti-MOP
+6,MoJoFM,Random Search,0.0053,0.86,Semanti-MOP
+7,Hypervolume,NSGA-II,0.1212,0.29,Baseline
+8,Hypervolume,MOEA/D,0.1041,0.28,Baseline
+9,Hypervolume,NSGA-III,0.0211,0.19,Baseline
+10,Hypervolume,AGE-MOEA-II,0.5708,0.42,Baseline
+11,Hypervolume,R-NSGA-II,0.0452,0.23,Baseline
+12,Hypervolume,U-NSGA-III,0.0211,0.19,Baseline
+13,Hypervolume,Random Search,0.1212,0.29,Baseline

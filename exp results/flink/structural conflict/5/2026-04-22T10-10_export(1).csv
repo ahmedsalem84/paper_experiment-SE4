@@ -1,0 +1,15 @@
+﻿,Metric,Algo,P-Value,A12,Winner
+0,MoJoFM,NSGA-II,0.8299,0.48,Tie
+1,MoJoFM,MOEA/D,0.0421,0.65,Semanti-MOP
+2,MoJoFM,NSGA-III,0.6835,0.53,Tie
+3,MoJoFM,AGE-MOEA-II,0.7782,0.52,Tie
+4,MoJoFM,R-NSGA-II,0.6889,0.53,Tie
+5,MoJoFM,U-NSGA-III,0.8880,0.49,Tie
+6,MoJoFM,Random Search,0.0381,0.66,Semanti-MOP
+7,Hypervolume,NSGA-II,0.9117,0.51,Tie
+8,Hypervolume,MOEA/D,0.8073,0.48,Tie
+9,Hypervolume,NSGA-III,0.2282,0.41,Tie
+10,Hypervolume,AGE-MOEA-II,0.7618,0.48,Tie
+11,Hypervolume,R-NSGA-II,0.2009,0.40,Tie
+12,Hypervolume,U-NSGA-III,0.5201,0.45,Tie
+13,Hypervolume,Random Search,0.3711,0.57,Tie
