@@ -12,14 +12,10 @@
 The core innovation is an **Instability-Triggered Semantic Repair Operator**. By monitoring the assignments of classes across a Many-Objective Evolutionary population, the framework identifies "Borderline Classes" (high entropy). It then selectively invokes a Large Language Model (LLM) to act as a semantic arbiter, resolving ambiguities using Retrieval-Augmented Generation (RAG) and Domain-Driven Design (DDD) principles.
 
 ## system screenshoot
-![Project Logo](Screenshots/Screenshot 2026-04-22 at 13-07-34 Semanti-MOP Final Complete Study.png)
-![Project Logo](Screenshots/Screenshot 2026-04-22 at 13-07-51 Semanti-MOP Final Complete Study.png)
-![Project Logo](Screenshot 2026-04-22 at 13-08-01 Semanti-MOP Final Complete Study.png)
-![Project Logo](Screenshots/Screenshot 2026-04-22 at 13-08-11 Semanti-MOP Final Complete Study.png)
-![Project Logo](Screenshots/Screenshot 2026-04-22 at 13-08-23 Semanti-MOP Final Complete Study.png)
-![Project Logo](Screenshots/Screenshot 2026-04-22 at 13-08-46 Semanti-MOP Final Complete Study.png)
+*all screen shots for this system is in folder [Screenshots]
 ---
-<img width="3840" height="2160" alt="Screenshot 2026-04-22 at 13-07-34 Semanti-MOP Final Complete Study" src="https://github.com/user-attachments/assets/94cbe81a-0e5f-46f1-8b6d-eeec58d4258c" />
+<img width="3840" height="2160" alt="Screenshot 2026-04-22 at 13-07-51 Semanti-MOP Final Complete Study" src="https://github.com/user-attachments/assets/7ef0872a-7476-4b37-a3ed-b69de61b1013" />
+
 
 ## 🚀 Key Features
 
