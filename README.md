@@ -19,6 +19,7 @@ The core innovation is an **Instability-Triggered Semantic Repair Operator**. By
 ![Project Logo](Screenshots/Screenshot 2026-04-22 at 13-08-23 Semanti-MOP Final Complete Study.png)
 ![Project Logo](Screenshots/Screenshot 2026-04-22 at 13-08-46 Semanti-MOP Final Complete Study.png)
 ---
+<img width="3840" height="2160" alt="Screenshot 2026-04-22 at 13-07-34 Semanti-MOP Final Complete Study" src="https://github.com/user-attachments/assets/94cbe81a-0e5f-46f1-8b6d-eeec58d4258c" />
 
 ## 🚀 Key Features
 
